@@ -65,7 +65,7 @@ Here's the structure of the project:
 
 ## Special Thanks
 
-A huge thank you to [Person's Name](https://github.com/adrianhajdin)) for their incredible work on the frontend of this project. Your talent, dedication, and attention to detail have made this application look and feel amazing. We truly appreciate your contributions and couldn't have done it without you!
+A huge thank you to [adrianhajdin](https://github.com/adrianhajdin) for their incredible work on the frontend of this project. Your talent, dedication, and attention to detail have made this application look and feel amazing. We truly appreciate your contributions and couldn't have done it without you!
 
 
 
