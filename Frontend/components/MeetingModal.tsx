@@ -39,7 +39,7 @@ const MeetingModal = ({
           {image && (
             <div className="flex justify-center">
               <Image src={image} alt="checked" width={72} height={72} />
-            </div>
+            </div>  
           )}
           <h1 className={cn("text-3xl font-bold leading-[42px]", className)}>
             {title}

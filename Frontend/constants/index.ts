@@ -25,6 +25,16 @@ export const sidebarLinks = [
     route: '/personal-room',
     label: 'Personal Room',
   },
+  {
+    label: 'Team Members',
+    dropdown: true,
+    teamMembers: [
+      { name: 'Hassaan', linkedinURL: 'https://www.linkedin.com/in/hassaan/', avatar: '/images/avatar-1.jpeg' },
+      { name: 'Sana', linkedinURL: 'https://www.linkedin.com/in/sana/', avatar: '/images/avatar-2.jpeg' },
+      { name: 'Minal', linkedinURL: 'https://www.linkedin.com/in/minal/', avatar: '/images/avatar-3.png' },
+      { name: 'Stephanie', linkedinURL: 'https://www.linkedin.com/in/stephanie/', avatar: '/images/avatar-4.png' }
+    ]
+  }
 ];
 
 export const avatarImages = [
