@@ -16,9 +16,62 @@ A brief description of your project and what it does.
 
 ---
 
+# AI-Powered Multilingual Business Communication Assistant
+
 ## Overview
 
-This project is a full-stack web application that utilizes **React** for the frontend and **Flask** for the backend. The application serves as a great starting point for building modern web applications with a powerful React frontend and a lightweight Flask API backend.
+Our project is an **AI-powered multilingual business communication assistant** designed to break down language barriers in global business operations.
+
+Leveraging **IBM’s advanced Granite models**, the assistant offers:
+
+- **Real-time voice translation** for meetings.
+- **Context-aware translation** for emails, contracts, and customer interactions.
+- **Adaptation to industry-specific jargon** for precise, domain-relevant communication.
+- **Sentiment analysis** to ensure appropriate tone in cross-cultural contexts.
+
+## Key Features
+
+- 🌐 **Multilingual Support**  
+  Enables seamless communication across various languages, eliminating the need for human translators.
+
+- 🗣️ **Real-Time Voice Translation**  
+  Translates spoken language during meetings with minimal latency for smoother collaboration.
+
+- ✉️ **Contextual Text Translation**  
+  Applies contextual understanding to translate emails, business contracts, and customer service chats accurately.
+
+- 🧠 **Industry-Specific Language Adaptation**  
+  Recognizes and uses terminology relevant to the user's field (e.g., legal, healthcare, finance).
+
+- 😊 **Sentiment Analysis**  
+  Analyzes tone and emotion to ensure the message is conveyed appropriately across cultures.
+
+## Benefits
+
+- 🤝 Facilitates global collaboration
+- 📈 Enhances international customer service
+- 🧩 Simplifies contract negotiation across languages
+- ✅ Reduces miscommunication risks in cross-border operations
+
+## Use Cases
+
+- **Global Teams:** Real-time multilingual communication in daily meetings  
+- **Customer Support:** Accurate and emotionally aware responses across languages  
+- **Legal/Compliance:** Reliable translation of contracts and regulatory documents  
+- **Sales & Marketing:** Tailored messaging that resonates with diverse audiences
+
+## Technology Stack
+
+- **AI/ML Models:** IBM Granite Foundation Models  
+- **NLP/NLU:** Contextual translation and sentiment analysis  
+- **Voice Interface:** Real-time speech-to-speech translation APIs  
+- **Deployment:** Cloud-based infrastructure for scalability
+
+## Vision
+
+This assistant empowers businesses to operate confidently in international markets, eliminating language barriers as an obstacle to innovation and collaboration.
+
+> **“Speak globally. Understand locally.”**
 
 ---
 
