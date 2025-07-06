@@ -1,7 +1,6 @@
 # Project Title
 
-A brief description of your project and what it does.
-
+Our project is an AI-powered multilingual business communication assistant designed to break down language barriers in global business operations. Using IBM’s advanced Granite models, it provides real-time voice translation for meetings, as well as context-aware translation for emails, contracts, and customer interactions. The assistant is capable of adapting to industry-specific jargon, ensuring precise and effective communication across diverse sectors. Additionally, it includes sentiment analysis to ensure the right tone is conveyed in cross-cultural communications. This solution empowers businesses to collaborate globally, improve customer service, and navigate international negotiations without language constraints.
 ---
 
 ## Table of Contents
